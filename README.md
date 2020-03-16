@@ -20,6 +20,6 @@
 -	Validate output data and model performance
 -	Infer insights from the final predicted output 
  
- **Tools:** Python|Numpy|
+ **Tools:** Python|Numpy|Pandas|Sci-kit Learn|PCA
 
 **Data Files:** The data files can be obtained from the project workspace
