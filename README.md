@@ -1,6 +1,12 @@
 # Customer Segmentation using PCA & Kmeans Algorithm
 **Problem Statement:** Analyze demographics data for customers of a mail-order sales company (Arvato) in Germany, comparing it against demographics information for the general population. We will use unsupervised learning techniques to perform customer segmentation and identifying parts of the population that best describe the core customer base of the company. Then, we'll apply what we've learned on a dataset, with demographics information for targets of a marketing campaign for the company, and use a model to predict which individuals are most likely to convert into becoming customers for the company.
 
+**Key Milestones:**
+-	Customer Segmentation using Demographics Data
+-	Develop a Model to predict potential customer for the company through ad campaign
+-	Upload the results to Kaggle competition to share and score the performance and analysis
+
+
 **Project Design:** We will follow the high-level process flow below for processing data, identifying population cluster and creating a supervised model.
 
 **High Level Process Flow:**
