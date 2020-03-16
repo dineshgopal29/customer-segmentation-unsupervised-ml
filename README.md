@@ -19,6 +19,6 @@ High Level Process Flow:
 -	Train the model
 -	Test the model with test customer data
 -	Validate output data and model performance
-	Infer insights from the final predicted output 
+-	Infer insights from the final predicted output 
  
 
