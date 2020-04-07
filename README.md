@@ -28,4 +28,4 @@
  
  **Tools:** Python|Numpy|Pandas|Sci-kit Learn|PCA
 
-**Data Files:** The data files can be obtained from the project workspace
+**Data Files:** The data files were provided as part of the project workspace
